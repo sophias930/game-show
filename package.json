@@ -1,0 +1,19 @@
+{
+  "name": "game-show",
+  "version": "1.0.0",
+  "description": "Play customized games with your friends! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophias930/game-show.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophias930/game-show/issues"
+  },
+  "homepage": "https://github.com/sophias930/game-show#readme"
+}
